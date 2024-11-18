@@ -1,0 +1,1 @@
+SELECT * FROM part WHERE p_name = 'maroon blue saddle red deep';

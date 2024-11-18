@@ -1,0 +1,1 @@
+SELECT c_acctbal,c_nationkey FROM customer_1_prt_p184 WHERE c_nationkey = 4;

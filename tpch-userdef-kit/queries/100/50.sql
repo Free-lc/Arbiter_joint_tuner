@@ -1,0 +1,1 @@
+SELECT c_custkey,c_acctbal,c_nationkey FROM customer WHERE c_custkey Between 9413338 and 9853029;

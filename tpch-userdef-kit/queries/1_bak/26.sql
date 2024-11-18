@@ -1,0 +1,1 @@
+SELECT ps_suppkey,ps_partkey FROM partsupp WHERE ps_suppkey = 3709;

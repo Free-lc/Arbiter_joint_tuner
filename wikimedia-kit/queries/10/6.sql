@@ -1,0 +1,1 @@
+SELECT pagename FROM pagecounts WHERE pagename = 'de';

@@ -1,0 +1,1 @@
+SELECT d_fy_year,d_dow,d_last_dom,d_moy FROM date_dim_1_prt_p2 WHERE d_month_seq Between 929 and 1032;

@@ -1,0 +1,1 @@
+SELECT c_acctbal FROM customer WHERE c_acctbal Between 8242.28 and 8401.4;

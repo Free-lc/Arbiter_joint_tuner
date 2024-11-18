@@ -1,0 +1,1 @@
+SELECT o_custkey FROM orders WHERE o_custkey Between 623530 and 647851;

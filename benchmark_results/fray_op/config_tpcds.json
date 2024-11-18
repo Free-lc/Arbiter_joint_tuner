@@ -1,0 +1,9 @@
+{"database_system": "postgres",
+ "benchmark_name": "tpcds",
+  "scale_factor": 10, 
+  "partition_max": 50,
+  "query_frequence":1000,
+  "sql_per_table":15,
+  "budget": 5000,
+  "skipping_index":"MinMax"
+}

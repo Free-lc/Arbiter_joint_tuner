@@ -1,0 +1,1 @@
+SELECT * FROM customer WHERE c_acctbal = '21-863-327-5717';

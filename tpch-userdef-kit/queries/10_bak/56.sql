@@ -1,0 +1,1 @@
+SELECT c_nationkey FROM customer WHERE c_nationkey Between 21 and 22 AND c_custkey Between 20 and 1499945;

@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE o_totalprice >= 484671.10;

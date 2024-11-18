@@ -1,0 +1,1 @@
+SELECT * FROM partsupp WHERE ps_supplycost > 538.22;

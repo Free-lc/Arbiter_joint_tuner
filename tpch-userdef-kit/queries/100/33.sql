@@ -1,0 +1,1 @@
+SELECT p_size FROM part WHERE p_size Between 15 and 17;

@@ -1,0 +1,1 @@
+SELECT l_shipdate,l_shipdate,l_shipdate,l_commitdate,l_suppkey,l_partkey FROM lineitem WHERE l_suppkey = 8443;

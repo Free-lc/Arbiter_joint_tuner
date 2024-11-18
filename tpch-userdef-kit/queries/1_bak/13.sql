@@ -1,0 +1,1 @@
+SELECT s_nationkey,s_nationkey,s_nationkey FROM supplier WHERE s_acctbal = 7218.8;

@@ -1,0 +1,1 @@
+SELECT s_nationkey FROM supplier WHERE s_nationkey = 18 AND s_suppkey = 6793;

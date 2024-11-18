@@ -1,0 +1,1 @@
+SELECT inv_date_sk,inv_warehouse_sk,inv_date_sk,inv_date_sk FROM inventory WHERE inv_warehouse_sk = 3;

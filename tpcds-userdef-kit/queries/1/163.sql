@@ -1,0 +1,1 @@
+SELECT hd_income_band_sk FROM household_demographics WHERE hd_dep_count = 9;

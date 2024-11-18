@@ -1,0 +1,1 @@
+SELECT cp_catalog_page_sk,cp_catalog_number FROM catalog_page WHERE cp_catalog_number Between 85 and 86;

@@ -1,0 +1,1 @@
+SELECT p_partkey FROM part WHERE p_partkey = 166829 AND p_size = 7;

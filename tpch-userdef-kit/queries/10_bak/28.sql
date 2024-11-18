@@ -1,0 +1,1 @@
+SELECT ps_suppkey,ps_partkey FROM partsupp WHERE ps_partkey Between 1428901 and 1495007;

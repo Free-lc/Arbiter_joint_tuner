@@ -1,0 +1,1 @@
+SELECT s_suppkey,s_nationkey FROM supplier_1_prt_p241 WHERE s_nationkey = 2;

@@ -1,0 +1,1 @@
+SELECT s_suppkey,s_acctbal FROM supplier WHERE s_acctbal Between 211.83 and 367.64;

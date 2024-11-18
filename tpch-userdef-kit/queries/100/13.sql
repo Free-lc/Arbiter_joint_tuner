@@ -1,0 +1,1 @@
+SELECT s_suppkey FROM supplier WHERE s_nationkey Between 8 and 9;

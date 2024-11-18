@@ -1,0 +1,1 @@
+SELECT t_second,t_minute,t_time,t_minute FROM time_dim_1_prt_p46 WHERE t_second = 28;

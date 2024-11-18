@@ -1,0 +1,1 @@
+SELECT c_nationkey,c_custkey,c_custkey FROM customer WHERE c_nationkey = 7;

@@ -1,0 +1,1 @@
+SELECT p_size FROM part WHERE p_size Between 41 and 42;

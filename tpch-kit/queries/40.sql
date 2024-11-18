@@ -1,0 +1,1 @@
+SELECT * FROM customer WHERE c_phone >= 15.09;

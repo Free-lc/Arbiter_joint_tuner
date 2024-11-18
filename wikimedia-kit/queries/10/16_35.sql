@@ -1,0 +1,1 @@
+SELECT pagecategory FROM pagecounts_1_prt_p35 WHERE pagename = 'en';

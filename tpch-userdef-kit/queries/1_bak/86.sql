@@ -1,0 +1,1 @@
+SELECT l_partkey,l_quantity,l_suppkey,l_commitdate FROM lineitem WHERE l_suppkey = 3311;

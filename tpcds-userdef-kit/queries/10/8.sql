@@ -1,0 +1,1 @@
+SELECT inv_warehouse_sk FROM inventory WHERE inv_warehouse_sk = 7 AND inv_date_sk Between 2451046 and 2451228;

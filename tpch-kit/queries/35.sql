@@ -1,0 +1,1 @@
+SELECT * FROM region WHERE r_regionkey = 0.67;

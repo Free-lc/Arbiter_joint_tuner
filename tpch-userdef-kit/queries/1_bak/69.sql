@@ -1,0 +1,1 @@
+SELECT o_totalprice FROM orders WHERE o_custkey = 96451 AND o_orderdate = '1994-08-25';

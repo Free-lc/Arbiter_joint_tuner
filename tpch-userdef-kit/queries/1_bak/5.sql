@@ -1,0 +1,1 @@
+SELECT s_acctbal,s_acctbal,s_acctbal FROM supplier WHERE s_nationkey = 12 AND s_suppkey = 2714;

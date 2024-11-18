@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE o_custkey < 41337.53;

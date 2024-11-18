@@ -1,0 +1,1 @@
+SELECT o_totalprice FROM orders WHERE o_orderkey = 2583616;

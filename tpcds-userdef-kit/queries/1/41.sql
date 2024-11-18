@@ -1,0 +1,1 @@
+SELECT ca_gmt_offset FROM customer_address WHERE ca_address_sk Between 18700 and 18953;

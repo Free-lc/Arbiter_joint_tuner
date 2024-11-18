@@ -1,0 +1,1 @@
+SELECT * FROM customer WHERE c_address = 'aHSX5IWD4PFakpJbPSZUnDAOIIa9v68Rlws4B';

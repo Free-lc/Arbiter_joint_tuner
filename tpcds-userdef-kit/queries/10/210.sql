@@ -1,0 +1,1 @@
+SELECT c_first_shipto_date_sk FROM customer WHERE c_current_addr_sk Between 75244 and 83308;

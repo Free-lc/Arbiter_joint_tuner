@@ -1,0 +1,1 @@
+SELECT o_custkey,o_custkey,o_orderdate FROM orders WHERE o_custkey = 325;

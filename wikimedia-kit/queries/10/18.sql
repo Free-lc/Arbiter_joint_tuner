@@ -1,0 +1,1 @@
+SELECT pagecategory FROM pagecounts WHERE pagecategory = 1 AND pagename = 'en';

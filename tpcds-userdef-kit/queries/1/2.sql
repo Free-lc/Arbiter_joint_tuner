@@ -1,0 +1,1 @@
+SELECT inv_item_sk FROM inventory WHERE inv_date_sk Between 2452047 and 2452068;

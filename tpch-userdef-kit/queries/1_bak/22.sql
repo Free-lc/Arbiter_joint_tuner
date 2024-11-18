@@ -1,0 +1,1 @@
+SELECT ps_availqty FROM partsupp WHERE ps_suppkey = 6063 AND ps_partkey = 66062;

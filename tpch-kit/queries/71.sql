@@ -1,0 +1,1 @@
+SELECT * FROM supplier WHERE s_phone < 21.48;

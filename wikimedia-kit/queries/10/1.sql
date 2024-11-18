@@ -1,0 +1,1 @@
+SELECT pagecount,pagecount,pagecount FROM pagecounts WHERE pagecount Between 130152 and 558573 AND pagename Between 'aa' and 'zu.mw';

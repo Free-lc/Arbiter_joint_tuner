@@ -1,0 +1,1 @@
+SELECT pagecount FROM pagecounts_1_prt_p31 WHERE pagecategory = 1 AND pagename Between 'ja' and 'nl';

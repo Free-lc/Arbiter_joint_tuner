@@ -1,0 +1,1 @@
+SELECT inv_item_sk FROM inventory_1_prt_p36 WHERE inv_warehouse_sk = 5;

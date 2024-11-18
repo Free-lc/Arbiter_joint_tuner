@@ -1,0 +1,1 @@
+SELECT o_orderdate,o_orderkey FROM orders WHERE o_totalprice Between 67641.02 and 71661.45;

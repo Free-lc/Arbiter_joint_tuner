@@ -1,0 +1,1 @@
+SELECT o_custkey,o_custkey FROM orders WHERE o_orderkey = 2860229 AND o_custkey = 103193;

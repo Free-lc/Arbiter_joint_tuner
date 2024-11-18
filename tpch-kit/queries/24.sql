@@ -1,0 +1,1 @@
+SELECT * FROM orders WHERE o_orderpriority = '1992-11-27';

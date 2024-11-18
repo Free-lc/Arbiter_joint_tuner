@@ -1,0 +1,1 @@
+SELECT s_nationkey FROM supplier WHERE s_nationkey Between 1 and 2;

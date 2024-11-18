@@ -1,0 +1,1 @@
+SELECT t_time_sk,t_minute,t_minute FROM time_dim WHERE t_minute Between 56 and 57;

@@ -1,0 +1,1 @@
+SELECT l_quantity,l_extendedprice,l_receiptdate FROM lineitem WHERE l_discount = 0.04;

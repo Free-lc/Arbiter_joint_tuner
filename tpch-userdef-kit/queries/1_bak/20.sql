@@ -1,0 +1,1 @@
+SELECT ps_supplycost FROM partsupp WHERE ps_availqty = 3894 AND ps_supplycost = 192.05;

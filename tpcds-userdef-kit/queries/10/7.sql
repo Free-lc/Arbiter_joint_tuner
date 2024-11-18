@@ -1,0 +1,1 @@
+SELECT inv_quantity_on_hand,inv_quantity_on_hand,inv_item_sk,inv_quantity_on_hand FROM inventory WHERE inv_item_sk Between 72685 and 75058;

@@ -1,0 +1,1 @@
+SELECT pagename FROM pagecounts WHERE pagename Between 'oc' and 'pl' AND pagecount Between 0 and 8650050;

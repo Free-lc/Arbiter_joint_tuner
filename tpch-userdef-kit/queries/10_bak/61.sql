@@ -1,0 +1,1 @@
+SELECT o_custkey FROM orders WHERE o_orderkey Between 24491526 and 27414884;

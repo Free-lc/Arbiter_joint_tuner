@@ -1,0 +1,1 @@
+SELECT ca_gmt_offset FROM customer_address WHERE ca_gmt_offset = -5.0;

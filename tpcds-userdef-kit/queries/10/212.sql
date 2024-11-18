@@ -1,0 +1,1 @@
+SELECT cp_end_date_sk,cp_catalog_page_sk,cp_end_date_sk,cp_catalog_page_sk FROM catalog_page WHERE cp_catalog_page_sk Between 2618 and 3073;

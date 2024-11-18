@@ -1,0 +1,1 @@
+SELECT l_extendedprice,l_quantity,l_commitdate,l_receiptdate,l_quantity FROM lineitem WHERE l_partkey = 128108;

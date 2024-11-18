@@ -1,0 +1,1 @@
+SELECT * FROM nation WHERE n_regionkey > 1.01;

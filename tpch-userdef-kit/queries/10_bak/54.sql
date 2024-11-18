@@ -1,0 +1,1 @@
+SELECT c_acctbal FROM customer WHERE c_nationkey = 12;

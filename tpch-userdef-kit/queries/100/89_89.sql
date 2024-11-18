@@ -1,0 +1,1 @@
+SELECT l_shipdate,l_partkey FROM lineitem_1_prt_p89 WHERE l_quantity Between 7.0 and 8.0;

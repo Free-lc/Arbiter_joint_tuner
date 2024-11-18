@@ -1,0 +1,1 @@
+SELECT l_discount FROM lineitem WHERE l_suppkey Between 49332 and 50896;

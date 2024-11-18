@@ -1,0 +1,1 @@
+SELECT o_orderdate FROM orders_1_prt_p8 WHERE o_orderkey Between 114212225 and 122062688;

@@ -1,0 +1,1 @@
+SELECT o_custkey FROM orders_1_prt_p31 WHERE o_orderkey Between 24491526 and 27414884;

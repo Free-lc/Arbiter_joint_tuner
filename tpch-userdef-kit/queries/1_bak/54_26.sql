@@ -1,0 +1,1 @@
+SELECT c_acctbal,c_acctbal,c_acctbal FROM customer_1_prt_p26 WHERE c_custkey = 93896;

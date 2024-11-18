@@ -1,0 +1,1 @@
+SELECT s_acctbal,s_suppkey FROM supplier WHERE s_nationkey Between 17 and 18 AND s_suppkey Between 11 and 99912;

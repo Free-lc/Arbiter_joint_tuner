@@ -1,0 +1,1 @@
+SELECT pagecount FROM pagecounts_1_prt_p5 WHERE pagecategory = 1;

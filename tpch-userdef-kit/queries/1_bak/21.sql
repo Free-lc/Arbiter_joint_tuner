@@ -1,0 +1,1 @@
+SELECT ps_partkey,ps_partkey FROM partsupp WHERE ps_supplycost = 362.87;

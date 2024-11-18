@@ -1,0 +1,1 @@
+SELECT c_nationkey FROM customer_1_prt_p34 WHERE c_custkey = 147811;

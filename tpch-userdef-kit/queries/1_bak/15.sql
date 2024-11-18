@@ -1,0 +1,1 @@
+SELECT s_acctbal,s_suppkey,s_acctbal FROM supplier WHERE s_acctbal = 2535.92;

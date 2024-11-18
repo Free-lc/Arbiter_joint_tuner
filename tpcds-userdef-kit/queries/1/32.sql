@@ -1,0 +1,1 @@
+SELECT ca_address_sk FROM customer_address WHERE ca_address_sk Between 36771 and 38236;

@@ -1,0 +1,1 @@
+SELECT inv_quantity_on_hand FROM inventory WHERE inv_date_sk Between 2451837 and 2451921;

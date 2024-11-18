@@ -1,0 +1,1 @@
+SELECT c_current_cdemo_sk,c_customer_sk,c_first_shipto_date_sk FROM customer_1_prt_p26 WHERE c_current_addr_sk Between 14624 and 23998 AND c_last_review_date_sk Between 2452283 and 2452648;

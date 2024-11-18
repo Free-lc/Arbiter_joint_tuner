@@ -1,0 +1,1 @@
+SELECT t_minute FROM time_dim WHERE t_hour Between 2 and 3;

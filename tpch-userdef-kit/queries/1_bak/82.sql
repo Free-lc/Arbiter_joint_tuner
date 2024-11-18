@@ -1,0 +1,1 @@
+SELECT l_suppkey,l_commitdate,l_partkey,l_discount FROM lineitem WHERE l_suppkey = 901 AND l_orderkey = 5153184;

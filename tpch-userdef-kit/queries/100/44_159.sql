@@ -1,0 +1,1 @@
+SELECT p_partkey,p_size FROM part_1_prt_p159 WHERE p_size = 9;

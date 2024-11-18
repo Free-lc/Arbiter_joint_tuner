@@ -1,0 +1,1 @@
+SELECT s_suppkey FROM supplier_1_prt_p120 WHERE s_nationkey Between 8 and 9;

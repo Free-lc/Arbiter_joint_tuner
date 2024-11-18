@@ -1,0 +1,1 @@
+SELECT l_suppkey FROM lineitem WHERE l_receiptdate = '1994-01-13';

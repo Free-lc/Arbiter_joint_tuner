@@ -1,0 +1,1 @@
+SELECT s_suppkey FROM supplier_1_prt_p26 WHERE s_nationkey = 4;

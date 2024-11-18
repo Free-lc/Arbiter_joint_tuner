@@ -1,0 +1,9 @@
+{"database_system": "postgres",
+ "benchmark_name": "tpch_userdef",
+  "scale_factor": 100, 
+  "partition_max": 250,
+  "query_frequence":1000,
+  "sql_per_table":15,
+  "budget": 50000,
+  "skipping_index":"MinMax"
+}

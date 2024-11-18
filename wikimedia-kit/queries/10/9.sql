@@ -1,0 +1,1 @@
+SELECT pagecount,pagecount,pagecount FROM pagecounts WHERE pagecategory = 1 AND pagename = 'de';

@@ -1,0 +1,1 @@
+SELECT l_extendedprice,l_suppkey,l_extendedprice,l_discount FROM lineitem WHERE l_partkey = 64122;

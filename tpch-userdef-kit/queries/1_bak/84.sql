@@ -1,0 +1,1 @@
+SELECT l_quantity,l_commitdate,l_quantity,l_extendedprice,l_partkey FROM lineitem WHERE l_discount = 0.01;

@@ -1,0 +1,1 @@
+SELECT i_class_id FROM item WHERE i_wholesale_cost Between 2.64 and 2.91;

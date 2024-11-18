@@ -1,0 +1,1 @@
+SELECT * FROM supplier WHERE s_address = '7fUvp, GK6DzUsj,1Uea6pRycO9PUjkiQJO';

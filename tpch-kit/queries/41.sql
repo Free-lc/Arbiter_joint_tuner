@@ -1,0 +1,1 @@
+SELECT * FROM part WHERE p_size <= 43.39;

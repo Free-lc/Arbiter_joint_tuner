@@ -1,0 +1,9 @@
+{"database_system": "postgres",
+ "benchmark_name": "wikimedia",
+  "scale_factor": 10, 
+  "partition_max": 50,
+  "query_frequence":1000,
+  "sql_per_table":20,
+  "budget": 6000,
+  "skipping_index":"MinMax"
+}

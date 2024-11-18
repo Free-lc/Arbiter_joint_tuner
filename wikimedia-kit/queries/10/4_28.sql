@@ -1,0 +1,1 @@
+SELECT pagecategory,pagename FROM pagecounts_1_prt_p28 WHERE pagename Between 'el' and 'en';

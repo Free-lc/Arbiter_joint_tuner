@@ -1,0 +1,1 @@
+SELECT p_size FROM part WHERE p_partkey Between 1487419 and 1622925;

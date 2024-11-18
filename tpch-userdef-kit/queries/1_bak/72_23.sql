@@ -1,0 +1,1 @@
+SELECT o_custkey FROM orders_1_prt_p23 WHERE o_custkey = 90313;

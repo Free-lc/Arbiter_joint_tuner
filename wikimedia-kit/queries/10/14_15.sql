@@ -1,0 +1,1 @@
+SELECT pagecategory FROM pagecounts_1_prt_p15 WHERE pagename = 'ru';

@@ -1,0 +1,1 @@
+SELECT ps_availqty,ps_availqty FROM partsupp WHERE ps_suppkey Between 22860 and 25106 AND ps_supplycost Between 1.0 and 1000.0;

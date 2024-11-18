@@ -1,0 +1,1 @@
+SELECT t_minute FROM time_dim WHERE t_minute Between 42 and 43;

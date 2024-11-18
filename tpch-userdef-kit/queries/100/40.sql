@@ -1,0 +1,1 @@
+SELECT p_partkey,p_partkey FROM part WHERE p_partkey Between 6166294 and 6733034;

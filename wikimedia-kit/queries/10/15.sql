@@ -1,0 +1,1 @@
+SELECT pagecount FROM pagecounts WHERE pagecategory = 1;

@@ -1,0 +1,1 @@
+SELECT hd_vehicle_count FROM household_demographics WHERE hd_vehicle_count = -1 AND hd_dep_count Between 2 and 3;

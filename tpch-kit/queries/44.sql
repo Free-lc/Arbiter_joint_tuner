@@ -1,0 +1,1 @@
+SELECT * FROM customer WHERE c_mktsegment >= 9164.67;
